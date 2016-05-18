@@ -17,27 +17,23 @@ rc-collapse ui component for react
 [download-image]: https://img.shields.io/npm/dm/rc-collapse.svg?style=flat-square
 [download-url]: https://npmjs.org/package/rc-collapse
 
-## Development
+## Important
+This is a fork from react-component/collapse and it aims to match our objectives throughout our projects.
+We do not recommend the use of it without a deep analysis.
 
-```
-npm install
-npm start
-```
+## Important
 
-## Example
+## Dependencies
 
-http://localhost:8000/examples/
-
-online example: http://react-component.github.io/collapse/
-
+* Font Awesome 4.5.0
 
 ## Features
 
-* support ie8,ie8+,chrome,firefox,safari
+* support chrome,firefox,safari (needs flexbox support)
 
 ## Install
 
-[![rc-collapse](https://nodei.co/npm/rc-collapse.png)](https://npmjs.org/package/rc-collapse)
+npm install https://github.com/PromonLogicalis/collapse
 
 ## Usage
 
