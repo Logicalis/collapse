@@ -39,7 +39,7 @@ const CollapsePanel = React.createClass({
           role="tab"
           aria-expanded={isActive}
         >
-          <i className="arrow"></i>
+          <i className={"fa fa-plus toggleIcon " + (isActive ? 'active' : '')}></i>
           {header}
         </div>
         <Animate
