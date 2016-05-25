@@ -66,7 +66,7 @@
     "react-rc-collapse"
   ],
   "license": "MIT",
-  "main": "./src/index",
+  "main": "./lib/index",
   "name": "rc-collapse",
   "optionalDependencies": {},
   "pre-commit": [
@@ -90,5 +90,5 @@
     "start": "rc-tools run server",
     "test": "rc-tools run test"
   },
-  "version": "1.6.3"
+  "version": "1.6.3-pl-0"
 }
